@@ -1,0 +1,17 @@
+.produto {
+    background-color: rgba(127, 255, 212, 0.726);
+    color: rgb(34, 32, 32);
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    border: solid 2px black;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.253);
+}
+
+.produto span {
+    color: rgba(27, 26, 26, 0.747);
+    font-size: 20px;
+    font-family: fantasy;
+}

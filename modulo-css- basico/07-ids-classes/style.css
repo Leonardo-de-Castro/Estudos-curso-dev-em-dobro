@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    background-color: orange;
+    color: rgb(5, 77, 139);
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    color: orange;
+}
+
+p {
+    color: orange;
+}
+
+.descricao-produto {
+    background-color: orange;
+    color: rgb(5, 77, 139);
+    width: 200px;
+}
+
+.promocao {
+    border: solid 2px blue;
+    
+}
+
+.promocao-pc {
+    border: solid 2px green;
+}

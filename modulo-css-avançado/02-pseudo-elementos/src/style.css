@@ -1,0 +1,30 @@
+/*seletor::pseudo-elemento {
+    propriedade: valor;
+}
+*/
+
+.first-letter::first-letter {
+    color: brown;
+    font-size: 30px;
+}
+
+.first-line::first-line {
+    color: rgb(87, 87, 250);
+}
+
+li::marker {
+    color: blue;
+    font-size: 22px;
+}
+
+.before::before {
+    content:"";
+    background: url(../images/paisagem650.jpg) center center no-repeat;
+    display: inline-block;
+    width: 650px;
+    height: 434px;
+}
+
+.after::after {
+    content: url(../images/paisagem650.jpg);
+}

@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+   
+    flex-flow:nowrap ;
+}
+
+.container div {
+    background-color: rgb(150, 127, 255);
+    color: aliceblue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
